@@ -32,7 +32,7 @@ const RootPage = () => {
   return (
     <>
       <section
-        className='hero is-medium is-primary'
+        className='hero is-primary'
         style={{ backgroundColor: 'rgb(32, 88, 90)' }}
       >
         <div className='hero-body'>
